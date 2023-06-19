@@ -1,2 +1,1 @@
-# projeto_github
-Este é meu segundo repositório
+Projeto para praticar clone de repository e mexer com arquivos no Linux
